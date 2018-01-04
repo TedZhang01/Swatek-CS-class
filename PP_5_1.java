@@ -1,6 +1,7 @@
 package PP_5_1;
 
 import java.util.Scanner;//good luck man
+//hi
 
 
 public class PP_5_1
